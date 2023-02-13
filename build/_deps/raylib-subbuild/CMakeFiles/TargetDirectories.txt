@@ -1,3 +1,0 @@
-/Users/ABarnes23/Documents/Games/TestGame/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
-/Users/ABarnes23/Documents/Games/TestGame/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
-/Users/ABarnes23/Documents/Games/TestGame/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
